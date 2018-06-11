@@ -1,0 +1,24 @@
+{
+  "name": "doughnuts-3",
+  "version": "1.0.0",
+  "description": "doughnuts-3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "jose trujillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trujilloj/doughnuts-3-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trujilloj/doughnuts-3-server/issues"
+  },
+  "homepage": "https://github.com/trujilloj/doughnuts-3-server#readme"
+}
